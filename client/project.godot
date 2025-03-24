@@ -10,6 +10,7 @@ config_version=5
 
 [application]
 
-config/name="InfinityCoil"
+config/name="InfinityCoil - Client"
+config/description="Client of the infinity coil"
 config/features=PackedStringArray("4.4", "Forward Plus")
 config/icon="res://icon.svg"
